@@ -6,10 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Unreal/UE5_BlankSpace/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"E:/Unreal/UE5_BlankSpace/Content/StarterContent/Maps/BP_Projectile.uasset",
-				"E:/Unreal/UE5_BlankSpace/Content/StarterContent/BP_Projectile.uasset",
 				"E:/Unreal/UE5_BlankSpace/Content/BP_Projectile.uasset",
-				"E:/Unreal/UE5_BlankSpace/Content/StarterContent/Maps/Minimal_Default.umap"
+				"E:/Unreal/UE5_BlankSpace/Content/StarterContent/Maps/Minimal_Default.umap",
+				"E:/Unreal/UE5_BlankSpace/Content/Main.umap",
+				"E:/Unreal/UE5_BlankSpace/Content/BP_Barrel1.uasset",
+				"E:/Unreal/UE5_BlankSpace/Content/IndustryPropsPack6/Meshes/BP_Barrel01.uasset",
+				"E:/Unreal/UE5_BlankSpace/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"E:/Unreal/UE5_BlankSpace/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"E:/Unreal/UE5_BlankSpace/Content/StarterContent/BP_Projectile.uasset"
 			]
 		}
 	]
