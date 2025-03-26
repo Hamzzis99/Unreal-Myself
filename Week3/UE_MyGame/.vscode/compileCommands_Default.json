@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGameCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGameCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGameGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGameGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGamePickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGamePickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGameProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGameProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGameWeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Github\\UE_MyGame\\Source\\UE_MyGame\\UE_MyGameWeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Github\\UE_MyGame\\.vscode\\compileCommands_Default\\UE_MyGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
